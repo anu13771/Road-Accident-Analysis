@@ -58,6 +58,10 @@ The goal of this project is to answer the following business questions:
 - Monthly Trend (Current Year vs Previous Year)
 
 ---
+### Excel File Note
+The original Excel file used for analysis is large in size and exceeds GitHub's upload limit.
+A sampled version of the dataset with the same structure and calculations has been uploaded
+for reference and demonstration purposes.
 
 
 
